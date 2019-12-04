@@ -9,8 +9,7 @@
   },
   "homepage": "https://github.com/aliviaord/contacts-fis2019",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha"
+    "start": "node index.js"
   },
   "author": "Alicia Viñas",
   "license": "ISC",
